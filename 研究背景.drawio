@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_HnQ62RtuMs_b8dpjfm0-2" value="DB" style="swimlane;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="270" y="150" width="840" height="460" as="geometry" />
+          <mxGeometry x="270" y="150" width="750" height="460" as="geometry" />
         </mxCell>
         <mxCell id="_HnQ62RtuMs_b8dpjfm0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_HnQ62RtuMs_b8dpjfm0-2" source="_HnQ62RtuMs_b8dpjfm0-10" target="_HnQ62RtuMs_b8dpjfm0-12">
           <mxGeometry relative="1" as="geometry" />
@@ -101,7 +101,10 @@
           <mxGeometry x="140" y="180" width="590" height="140" as="geometry" />
         </mxCell>
         <mxCell id="_HnQ62RtuMs_b8dpjfm0-105" value="实际应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HnQ62RtuMs_b8dpjfm0-2">
-          <mxGeometry x="10" y="307.5" width="60" height="30" as="geometry" />
+          <mxGeometry y="307.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_HnQ62RtuMs_b8dpjfm0-106" value="理论支撑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HnQ62RtuMs_b8dpjfm0-2">
+          <mxGeometry x="50" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_HnQ62RtuMs_b8dpjfm0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_HnQ62RtuMs_b8dpjfm0-5">
           <mxGeometry relative="1" as="geometry">
@@ -120,9 +123,6 @@
               <mxPoint x="300" y="276" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="_HnQ62RtuMs_b8dpjfm0-106" value="理论支撑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="620" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_HnQ62RtuMs_b8dpjfm0-1" value="AI" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="150" width="260" height="460" as="geometry" />
@@ -176,8 +176,8 @@
         <mxCell id="_HnQ62RtuMs_b8dpjfm0-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.468;entryY=1.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_HnQ62RtuMs_b8dpjfm0-97" target="_HnQ62RtuMs_b8dpjfm0-101">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="558" y="650" />
-              <mxPoint x="120" y="650" />
+              <mxPoint x="558" y="600" />
+              <mxPoint x="120" y="600" />
               <mxPoint x="120" y="589" />
             </Array>
           </mxGeometry>
