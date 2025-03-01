@@ -167,19 +167,20 @@
         <mxCell id="_HnQ62RtuMs_b8dpjfm0-101" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="_HnQ62RtuMs_b8dpjfm0-1">
           <mxGeometry x="-10" y="274.5" width="250" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="_HnQ62RtuMs_b8dpjfm0-107" value="海量数据需求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HnQ62RtuMs_b8dpjfm0-1">
-          <mxGeometry x="170" y="70" width="90" height="30" as="geometry" />
+        <mxCell id="_HnQ62RtuMs_b8dpjfm0-107" value="海量数据存储查询需要" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_HnQ62RtuMs_b8dpjfm0-1">
+          <mxGeometry x="170" y="70" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_HnQ62RtuMs_b8dpjfm0-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.988;entryY=0.584;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_HnQ62RtuMs_b8dpjfm0-97" target="_HnQ62RtuMs_b8dpjfm0-101">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_HnQ62RtuMs_b8dpjfm0-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.468;entryY=1.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_HnQ62RtuMs_b8dpjfm0-97" target="_HnQ62RtuMs_b8dpjfm0-101">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="558" y="650" />
-              <mxPoint x="147" y="650" />
+              <mxPoint x="120" y="650" />
+              <mxPoint x="120" y="589" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="_HnQ62RtuMs_b8dpjfm0-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.988;entryY=0.584;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_HnQ62RtuMs_b8dpjfm0-97" target="_HnQ62RtuMs_b8dpjfm0-101">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
