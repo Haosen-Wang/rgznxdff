@@ -16,6 +16,34 @@
         <mxCell id="_HnQ62RtuMs_b8dpjfm0-23" value="" style="shape=cross;whiteSpace=wrap;html=1;" vertex="1" parent="_HnQ62RtuMs_b8dpjfm0-1">
           <mxGeometry x="77.5" y="140" width="42.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="_HnQ62RtuMs_b8dpjfm0-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_HnQ62RtuMs_b8dpjfm0-1" source="_HnQ62RtuMs_b8dpjfm0-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_HnQ62RtuMs_b8dpjfm0-25" value="推理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_HnQ62RtuMs_b8dpjfm0-1">
+          <mxGeometry x="40" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_HnQ62RtuMs_b8dpjfm0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_HnQ62RtuMs_b8dpjfm0-1" source="_HnQ62RtuMs_b8dpjfm0-21" target="_HnQ62RtuMs_b8dpjfm0-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_HnQ62RtuMs_b8dpjfm0-28" value="演绎推理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_HnQ62RtuMs_b8dpjfm0-1">
+          <mxGeometry x="10" y="390" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_HnQ62RtuMs_b8dpjfm0-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_HnQ62RtuMs_b8dpjfm0-1" source="_HnQ62RtuMs_b8dpjfm0-25" target="_HnQ62RtuMs_b8dpjfm0-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="370" />
+              <mxPoint x="51" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_HnQ62RtuMs_b8dpjfm0-38" value="符号推理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_HnQ62RtuMs_b8dpjfm0-1">
+          <mxGeometry x="110" y="390" width="80" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="_HnQ62RtuMs_b8dpjfm0-2" value="DB" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="150" width="840" height="460" as="geometry" />
         </mxCell>
