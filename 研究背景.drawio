@@ -164,6 +164,21 @@
         <mxCell id="zigF3cxAyDVax6BtE3_u-63" value="迫切依赖" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_HnQ62RtuMs_b8dpjfm0-2">
           <mxGeometry x="304" y="340" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="zigF3cxAyDVax6BtE3_u-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_HnQ62RtuMs_b8dpjfm0-2" source="zigF3cxAyDVax6BtE3_u-64" target="zigF3cxAyDVax6BtE3_u-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1280" y="260" />
+              <mxPoint x="1280" y="560" />
+              <mxPoint x="190" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zigF3cxAyDVax6BtE3_u-64" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="_HnQ62RtuMs_b8dpjfm0-2">
+          <mxGeometry x="520" y="190" width="640" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="zigF3cxAyDVax6BtE3_u-66" value="理论研究应用于实际推理优化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_HnQ62RtuMs_b8dpjfm0-2">
+          <mxGeometry x="685" y="525" width="180" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
